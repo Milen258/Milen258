@@ -31,9 +31,6 @@
 - **HTML5**
 - **CSS3**
 - **SCSS**
-
-### 🔧 Backend & Databases
-
 - **Node.js**
 - **MySQL**
 - **MongoDB**
