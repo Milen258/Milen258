@@ -27,7 +27,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+- **HTML5**
+- **CSS3**
+- **SCSS**
+- **JavaScript**
+- **React.js**
+- **Tailwind CSS**
 
+### 🔧 Backend & Databases
+
+- **Node.js**
+- **MySQL**
+- **MongoDB**
+- **SQL**
+- **Prisma (ORM)**
+
+### 🤖 AI / Machine Learning
+
+- Exploring **AI-driven technologies** and **deep learning** concepts  
+- Building smart, responsive systems with automation in mind  
+
+---
 ---
 
 ### ☕ Let's Connect
