@@ -30,8 +30,6 @@
 - **HTML5**
 - **CSS3**
 - **SCSS**
-- **JavaScript**
-- **React.js**
 - **Tailwind CSS**
 
 ### 🔧 Backend & Databases
