@@ -30,14 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### ☕ Let's Connect
 
 - [Email](mailto:mila.qaramyan@gmail.com)
@@ -45,7 +37,7 @@
 ---
 
 <!-- You can customize this README even more with animations, visitor counters, and GitHub trophies -->
-## Hi there 👋
+
 
 <!--
 **Milen258/Milen258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
