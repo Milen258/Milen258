@@ -36,7 +36,9 @@
 - **MongoDB**
 - **SQL**
 - **Prisma (ORM)**
-
+- **C++**
+- **C**
+- **Git**
 ### 🤖 AI / Machine Learning
 
 - Exploring **AI-driven technologies** and **deep learning** concepts  
